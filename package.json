@@ -1,0 +1,32 @@
+{
+    "name": "quiet-dark",
+    "displayName": "Quiet Dark",
+    "description": "Dark Implementation of VSCode's Quiet Light.",
+    "version": "0.0.1",
+    "publisher": "JosphatGitogoSangara",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "quiet",
+        "dark",
+        "quiet dark",
+        "purple"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JGSangara/Quiet-Dark-Theme-for-VSCode.git"
+    },
+    "icon": "images/icon.png",
+    "contributes": {
+        "themes": [{
+            "label": "Quiet Dark",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Quiet Dark-color-theme.json"
+        }]
+    }
+}
