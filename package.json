@@ -21,7 +21,7 @@
         "type": "git",
         "url": "https://github.com/JGSangara/Quiet-Dark-Theme-for-VSCode.git"
     },
-    "icon": "images/icon.png",
+    "icon": "images/icon.jpg",
     "contributes": {
         "themes": [{
             "label": "Quiet Dark",
