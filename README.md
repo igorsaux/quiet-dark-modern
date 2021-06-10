@@ -7,8 +7,10 @@ Dark Implementation of Visual Studio Code's Quiet Light.
 
 
 Screenshots!
-![theme preview](https://i.imgur.com/G3KSdGo.png)
-![mild contrast preview](https://i.imgur.com/kxR49j3.png)
+![theme preview](https://github.com/JGSangara/Quiet-Dark-Theme-for-VSCode/blob/main/images/Quiet%20Light.JPG)
+ 
+ 
+![mild contrast preview](https://github.com/JGSangara/Quiet-Dark-Theme-for-VSCode/blob/main/images/Quiet%20Light2.JPG)
 
 </div>
 
@@ -22,12 +24,12 @@ Screenshots!
 
 ## Contributing
 
-This project is released under the [MIT License](https://github.com/whizkydee/vscode-palenight-theme/blob/master/license.md), contributions are welcomed, find the code [here](https://github.com/whizkydee/vscode-palenight-theme/issues).
+This project is released under the [MIT License](https://github.com/JGSangara/Quiet-Dark-Theme-for-VSCode/blob/main/LICENSE), contributions are welcomed, find the code [here](https://github.com/JGSangara/Quiet-Dark-Theme-for-VSCode).
 
-You could also support the project in Patreon <a href="https://patreon.com/endel"> [here](https://github.com/whizkydee/vscode-palenight-theme/issues).
+You could also support the project in Patreon <span class="badge-patreon"><a href="https://www.patreon.com/user?u=56917361" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
+
+
 
 ## License
 
-This theme is released under the [MIT License](https://github.com/whizkydee/vscode-palenight-theme/blob/master/license.md).
-
- Designed by **[Josphat Gitogo Sangara](https://olaolu.dev?utm_source=palenight)** from **[Nairobi, Kenya](https://www.google.com/maps/place/Lagos)**. Find me on **[Twitter](https://twitter.com/mrolaolu)** 
+This theme is released under the [MIT License](https://github.com/JGSangara/Quiet-Dark-Theme-for-VSCode/blob/main/LICENSE).
