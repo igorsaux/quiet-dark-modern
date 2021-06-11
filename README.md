@@ -8,10 +8,10 @@ Dark Implementation of Visual Studio Code's Quiet Light.
 
 Screenshots!
 
-![theme preview](https://github.com/JGSangara/Quiet-Dark-Theme-for-VSCode/blob/main/images/FirstImage.png)
+![theme preview](https://github.com/JGSangara/Quiet-Dark-Theme-for-VSCode/blob/main/images/FirstImage.PNG)
  
  
-![theme preview](https://github.com/JGSangara/Quiet-Dark-Theme-for-VSCode/blob/main/images/SecondImage.png)
+![theme preview](https://github.com/JGSangara/Quiet-Dark-Theme-for-VSCode/blob/main/images/SecondImage.PNG)
 
 
 
