@@ -2,7 +2,7 @@
     "name": "quiet-dark",
     "displayName": "Quiet Dark",
     "description": "Dark Implementation of VSCode's Quiet Light.",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "publisher": "JosphatGitogoSangara",
     "engines": {
         "vscode": "^1.56.0"
@@ -23,10 +23,12 @@
     },
     "icon": "images/icon.jpg",
     "contributes": {
-        "themes": [{
-            "label": "Quiet Dark",
-            "uiTheme": "vs-dark",
-            "path": "./themes/Quiet Dark-color-theme.json"
-        }]
+        "themes": [
+            {
+                "label": "Quiet Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Quiet Dark-color-theme.json"
+            }
+        ]
     }
 }
