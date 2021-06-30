@@ -407,7 +407,7 @@
 		  "name": "Variables",
 		  "scope": "variable, meta.selector.css",
 		  "settings": {
-			"foreground": "#E26674"
+			"foreground": "#bab8b8"
 		  }
 		},
 		{
