@@ -107,7 +107,8 @@
 		  "name": "Comment",
 		  "scope": "comment",
 		  "settings": {
-			"foreground": "#506686"
+			"foreground": "#506686",
+			"fontStyle": "italic bold"
 		  }
 		},
 		{
