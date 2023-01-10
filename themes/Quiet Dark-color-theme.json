@@ -99,7 +99,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#AAAAAA"
+                "foreground": "#506686"
             }
         },
         {
@@ -107,7 +107,7 @@
             "scope": "comment.block.preprocessor",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#AAAAAA"
+                "foreground": "#506686"
             }
         },
         {
