@@ -552,7 +552,7 @@
             "name": "JSX: InnerText",
             "scope": "meta.jsx.children.js",
             "settings": {
-                "foreground": "#333333ff"
+                "foreground": "#bbbbbb"                
             }
         }
     ]
