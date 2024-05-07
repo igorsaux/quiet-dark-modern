@@ -15,10 +15,14 @@ Dark implementation of Visual Studio Code's Quiet Light, modernized.
 
 ## Installation
 
+I haven't had the time to package/upload this to the extension marketplace, but you can still install from source.
+
+<!--
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
-1. Search for `Quiet Dark Modern` and choose "Quiet Dark Modern"
-1. Click **Install** to install it
-1. Navigate to File > Preferences > Color Theme > **Quiet Dark Modern** (or any of the variants listed)
+2. Search for `Quiet Dark Modern` and choose "Quiet Dark Modern"
+3. Click **Install** to install it
+4. Navigate to File > Preferences > Color Theme > **Quiet Dark Modern** (or any of the variants listed)
+-->
 
 ## Credits
 
