@@ -1,9 +1,9 @@
 {
-    "name": "quiet-dark",
-    "displayName": "Quiet Dark",
-    "description": "Dark Implementation of VSCode's Quiet Light.",
+    "name": "quiet-dark-modern",
+    "displayName": "Quiet Dark Modern",
+    "description": "Dark implementation of VSCode's Quiet Light, aligned with the new Dark Modern theme",
     "version": "1.2.0",
-    "publisher": "JosphatGitogoSangara",
+    "publisher": "zabackary",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -15,18 +15,18 @@
         "quiet",
         "dark",
         "quiet dark",
+        "quiet dark modern",
         "purple"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/JGSangara/Quiet-Dark-Theme-for-VSCode.git"
+        "url": "https://github.com/zabackary/quiet-dark-modern.git"
     },
-    "icon": "images/icon.jpg",
     "contributes": {
         "themes": [{
-            "label": "Quiet Dark",
+            "label": "Quiet Dark Modern",
             "uiTheme": "vs-dark",
-            "path": "./themes/Quiet Dark-color-theme.json"
+            "path": "./themes/Quiet Dark Modern-color-theme.json"
         }]
     }
 }

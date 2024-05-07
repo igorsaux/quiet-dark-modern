@@ -1,32 +1,29 @@
 <div align="center">
 
-# Quiet Dark Theme for VSCode
+# Quiet Dark Modern Theme for VSCode
 
-Dark Implementation of Visual Studio Code's Quiet Light.
+Dark implementation of Visual Studio Code's Quiet Light, modernized.
 
 </div>
 
-Screenshots!
+## Screenshots
 
-![Theme Screenshot](images/FirstImage.PNG)
+![Theme screenshot #1](images/screenshot1.png)
 
-![Theme Screenshot](images/SecondImage.PNG)
+![Theme screenshot #2](images/screenshot2.png)
 
 
-# Installation
+## Installation
 
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
-1. Search for `Quiet Dark`, choose "Quiet Dark"
+1. Search for `Quiet Dark Modern` and choose "Quiet Dark Modern"
 1. Click **Install** to install it
-1. Navigate to File > Preferences > Color Theme > **Quiet Dark** (or any of the variants listed)
+1. Navigate to File > Preferences > Color Theme > **Quiet Dark Modern** (or any of the variants listed)
 
+## Credits
 
-## Contributing
+Thanks so much to [@JGSangara](https://github.com/JSSangara), who created the original version of this theme [here](https://github.com/JGSangara/Quiet-Dark-Theme-for-VSCode).
 
-This project is released under the [MIT License](https://github.com/JGSangara/Quiet-Dark-Theme-for-VSCode/blob/main/LICENSE), contributions are welcomed, find the code [here](https://github.com/JGSangara/Quiet-Dark-Theme-for-VSCode).
+## Contributing and licensing
 
-
-
-## License
-
-This theme is released under the [MIT License](https://github.com/JGSangara/Quiet-Dark-Theme-for-VSCode/blob/main/LICENSE).
+Licensed under the [MIT License](./LICENSE). Contributions are welcome (if any!) at [the repository on GitHub](https://github.com/zabackary/quiet-dark-modern).
