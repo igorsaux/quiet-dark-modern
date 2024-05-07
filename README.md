@@ -15,7 +15,14 @@ Dark implementation of Visual Studio Code's Quiet Light, modernized.
 
 ## Installation
 
-I haven't had the time to package/upload this to the extension marketplace, but you can still install from source.
+I haven't had the time to package/upload this to the extension marketplace, but you can still install from source. 
+You should not normally do this for extensions you don't trust, but to sideload a `vsix`:
+
+1. Download the file. You can get this theme's packaged file at the latest release, accessible [here](https://github.com/zabackary/quiet-dark-modern/releases/latest).
+2. Follow the [instructions to install from a VSIX](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix)
+  1. Use the *Extensions: Install from VSIX* command in the Command Palette
+  2. Use the UI to select the file you downloaded in step 1
+  3. Activate the theme via the theme details page (Extensions sidebar > *Quiet Dark Modern* > Set Color Theme)
 
 <!--
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
