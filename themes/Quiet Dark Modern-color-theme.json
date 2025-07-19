@@ -89,7 +89,7 @@
 	"tokenColors": [
         {
             "settings": {
-                "foreground": "#333333"
+                "foreground": "#C7A4DB"
             }
         },
         {
@@ -99,7 +99,7 @@
                 "string meta.image.inline.markdown"
             ],
             "settings": {
-                "foreground": "#333333"
+                "foreground": "#C7A4DB"
             }
         },
         {
