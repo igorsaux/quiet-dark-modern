@@ -2,7 +2,7 @@
     "name": "quiet-dark-modern",
     "displayName": "Quiet Dark Modern",
     "description": "Dark implementation of VSCode's Quiet Light, aligned with the new Dark Modern theme",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "publisher": "zabackary",
     "engines": {
         "vscode": "^1.56.0"
@@ -23,10 +23,12 @@
         "url": "https://github.com/zabackary/quiet-dark-modern.git"
     },
     "contributes": {
-        "themes": [{
-            "label": "Quiet Dark Modern",
-            "uiTheme": "vs-dark",
-            "path": "./themes/Quiet Dark Modern-color-theme.json"
-        }]
+        "themes": [
+            {
+                "label": "Quiet Dark Modern",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Quiet Dark Modern-color-theme.json"
+            }
+        ]
     }
 }
