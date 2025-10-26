@@ -8,34 +8,24 @@ Dark implementation of Visual Studio Code's Quiet Light, modernized.
 
 ## Screenshots
 
-![Theme screenshot #1](images/screenshot1.png)
-
-![Theme screenshot #2](images/screenshot2.png)
+<figure>
+   <img src="images/screenshot1.png" alt="Theme screenshot">
+   <figcaption>Theme screenshot with font "Recursive Mono Casual Static"</figcaption>
+</figure>
 
 ## Installation
 
-### From the command palette
+### From source
 
-Just press `Ctrl+Shift+P` (or `Cmd+Shift+P` on macOS) to open the command
-palette, then type:
-
-```text
-ext install zabackary.quiet-dark-modern
+```console
+$ vsce package
 ```
 
-### Manual
-
-1. Open the **Extensions** sidebar in VS Code. (From the menu:
-   `View → Extensions`)
-2. Search for `Quiet Dark Modern` and choose "Quiet Dark Modern"
-3. Click **Install** to install it
-4. Use the **"Preferences: Color Theme"** option to select **Quiet Dark Modern**
+Then in VSCode in the "Extensions" sidebar select "Install from VSIX..." and pick the `.vsix` file that appeared in the folder.
 
 ## Credits
 
-Thanks so much to [@JGSangara](https://github.com/JSSangara), who created the
-original version of this theme
-[here](https://github.com/JGSangara/Quiet-Dark-Theme-for-VSCode).
+Thanks so much to [@JGSangara](https://github.com/JSSangara), who created the original version of this theme [here](https://github.com/JGSangara/Quiet-Dark-Theme-for-VSCode).
 
 ## Contributing and licensing
 
