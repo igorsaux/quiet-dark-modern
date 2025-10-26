@@ -3,7 +3,7 @@
     "type": "dark",
     "colors": {
         "welcomePage.tileBackground": "#363c50",
-        "selection.background": "#363c50",
+        "selection.background": "#7e6d96",
         "dropdown.background": "#21212f",
         "dropdown.foreground": "#decffd",
         "editorHoverWidget.background": "#21212f",
@@ -36,7 +36,7 @@
         "activityBar.foreground": "#C4A8FF",
         "activityBarBadge.background": "#C4A8FF",
         "activityBarBadge.foreground": "#ffffff",
-        "statusBar.background": "#232128",
+        "statusBar.background": "#705697",
         "statusBar.noFolderBackground": "#18181b",
         "statusBar.debuggingBackground": "#C4A8FF50",
         "statusBarItem.remoteBackground": "#705697",
